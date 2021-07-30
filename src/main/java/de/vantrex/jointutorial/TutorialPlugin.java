@@ -26,6 +26,7 @@ public class TutorialPlugin extends JavaPlugin {
         getCommand("tutorialset").setExecutor(new LocationCreateCommand());
         getCommand("tutorialaddmsg").setExecutor(new AddMessageCommand());
         getCommand("tutorialdelete").setExecutor(new DeleteLocationCommand());
+        //
     }
 
     @Override
