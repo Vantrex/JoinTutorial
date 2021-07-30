@@ -1,0 +1,9 @@
+name: JoinTutorial
+version: 1.0
+author: Vantrex
+main: de.vantrex.jointutorial.TutorialPlugin
+
+commands:
+  tutorialset:
+  tutorialaddmsg:
+  tutorialdelete:
